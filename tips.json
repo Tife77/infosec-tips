@@ -1,13 +1,11 @@
 [
-  { "Day": "Monday",    "Time": "09:30", "Slot": "Mon-AM",   "Msg": "If your password can be guessed by someone who knows you, it is NOT strong enough." },
-  { "Day": "Monday",    "Time": "12:30", "Slot": "Mon-NOON", "Msg": "Password123 is not a secure password. A strong password is at least 15 characters and mixes letters, numbers, and symbols." },
-  { "Day": "Monday",    "Time": "15:30", "Slot": "Mon-PM",   "Msg": "If your password can be guessed by someone who knows you, it is NOT strong enough." },
-
+  { "Day": "Monday",    "Time": "09:30", "Slot": "Mon-AM",   "Msg": "Received a payment request via email or WhatsApp? STOP. Verify offline. Always confirm the request directly with the sender through an in-person conversation before taking any action. It could be a phishing or smishing attempt." },
+  { "Day": "Monday",    "Time": "12:30", "Slot": "Mon-NOON", "Msg": "MFA prompts you did not initiate must always be denied. If you receive an unexpected MFA request, it means someone has your password and is trying to get in. Deny it and contact IT immediately." },
+  { "Day": "Monday",    "Time": "15:30", "Slot": "Mon-PM",   "Msg": "Received a payment request via email or WhatsApp? STOP. Verify offline. Always confirm the request directly with the sender through an in-person conversation before taking any action. It could be a phishing or smishing attempt." },
   { "Day": "Wednesday", "Time": "09:30", "Slot": "Wed-AM",   "Msg": "The most dangerous button on the internet is sometimes 'Accept'. Pause before you click. Not sure, contact IT immediately." },
   { "Day": "Wednesday", "Time": "12:30", "Slot": "Wed-NOON", "Msg": "Cybercriminals use fake emails, links, and attachments to steal credentials and compromise organisations. Think before you click. If something feels unusual, report it to IT immediately." },
   { "Day": "Wednesday", "Time": "15:30", "Slot": "Wed-PM",   "Msg": "The most dangerous button on the internet is sometimes 'Accept'. Pause before you click. Not sure, contact IT immediately." },
-
-  { "Day": "Friday",    "Time": "09:30", "Slot": "Fri-AM",   "Msg": "Lock your screen every time you leave your desk, even for two minutes. Press Windows + L instantly." },
-  { "Day": "Friday",    "Time": "12:30", "Slot": "Fri-NOON", "Msg": "Printed documents should not be left unattended at the printer or on your desk. Collect your prints immediately. If you print something sensitive and no longer need it, shred it; do not bin it." },
-  { "Day": "Friday",    "Time": "15:30", "Slot": "Fri-PM",   "Msg": "Lock your screen every time you leave your desk, even for two minutes. Press Windows + L instantly." }
+  { "Day": "Friday",    "Time": "09:30", "Slot": "Fri-AM",   "Msg": "If your password can be guessed by someone who knows you, it is NOT strong enough." },
+  { "Day": "Friday",    "Time": "12:30", "Slot": "Fri-NOON", "Msg": "Password123 is not a secure password. A strong password is at least 15 characters and mixes letters, numbers, and symbols." },
+  { "Day": "Friday",    "Time": "15:30", "Slot": "Fri-PM",   "Msg": "If your password can be guessed by someone who knows you, it is NOT strong enough." }
 ]
