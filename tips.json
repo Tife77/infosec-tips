@@ -1,11 +1,92 @@
 [
-  { "Day": "Monday",    "Time": "09:30", "Slot": "Mon-AM",   "Msg": "Curiosity clicked the link. Caution saved the company. Stay Vigilant. Verify. Do not be curious about strange links." },
-  { "Day": "Monday",    "Time": "12:30", "Slot": "Mon-NOON", "Msg": "One reported email can prevent a major breach. The cost of reporting a suspicious email is a few seconds of your time. The cost of not reporting it could be far greater. When in doubt, report it." },
-  { "Day": "Monday",    "Time": "15:30", "Slot": "Mon-PM",   "Msg": "Curiosity clicked the link. Caution saved the company. Stay Vigilant. Verify. Do not be curious about strange links." },
-  { "Day": "Wednesday", "Time": "09:30", "Slot": "Wed-AM",   "Msg": "Public Wi-Fi networks can be monitored by attackers. Never access your work email, financial applications, or any system with sensitive information over public Wi-Fi. Use your mobile data instead." },
-  { "Day": "Wednesday", "Time": "12:30", "Slot": "Wed-NOON", "Msg": "\"Accept All Cookies\" may enable extensive tracking of your browsing behaviour across the internet. Choose \"Manage Preferences\" or \"Reject Non-Essential\" where possible. Your data is worth protecting." },
-  { "Day": "Wednesday", "Time": "15:30", "Slot": "Wed-PM",   "Msg": "Public Wi-Fi networks can be monitored by attackers. Never access your work email, financial applications, or any system with sensitive information over public Wi-Fi. Use your mobile data instead." },
-  { "Day": "Friday",    "Time": "09:30", "Slot": "Fri-AM",   "Msg": "Reusing passwords across platforms increases your risk significantly. If one site is breached, that same password will be tested everywhere else you use it. Use a unique password for every account." },
-  { "Day": "Friday",    "Time": "12:30", "Slot": "Fri-NOON", "Msg": "Platforms like ChatGPT, Gemini, and others may use the information you type to train their models. Client names, financial figures, internal reports, and policy documents must never be entered into these platforms." },
-  { "Day": "Friday",    "Time": "15:30", "Slot": "Fri-PM",   "Msg": "Reusing passwords across platforms increases your risk significantly. If one site is breached, that same password will be tested everywhere else you use it. Use a unique password for every account." }
+  {
+    "Day": "Monday",
+    "Time": "09:30",
+    "Slot": "Mon-AM",
+    "Msg": "Over 90% of cyberattacks start with a phishing email. Before you click, pause and verify. Check the sender, inspect links carefully, and be cautious of urgent requests. When in doubt, do not engage; contact IT immediately."
+  },
+  {
+    "Day": "Monday",
+    "Time": "12:30",
+    "Slot": "Mon-NOON",
+    "Msg": "SMISHING is phishing via SMS. You receive a text that looks like it is from your bank, NIMC, FIRS, or a courier asking you to click a link or call a number urgently. Do not click. Go directly to the organisation's official website instead. When in doubt, contact IT."
+  },
+  {
+    "Day": "Monday",
+    "Time": "15:30",
+    "Slot": "Mon-PM",
+    "Msg": "Over 90% of cyberattacks start with a phishing email. Before you click, pause and verify. Check the sender, inspect links carefully, and be cautious of urgent requests. When in doubt, do not engage; contact IT immediately."
+  },
+  {
+    "Day": "Tuesday",
+    "Time": "09:30",
+    "Slot": "Tue-AM",
+    "Msg": "Never share OTPs or verification codes with anyone. No legitimate organisation, IT staff member, or bank representative will ever ask for your OTP. If someone does, it is a red flag. Stop and report it."
+  },
+  {
+    "Day": "Tuesday",
+    "Time": "12:30",
+    "Slot": "Tue-NOON",
+    "Msg": "MFA prompts you did not initiate must always be denied. If you receive an unexpected MFA request, it means someone has your password and is trying to get in. Deny it and contact IT immediately."
+  },
+  {
+    "Day": "Tuesday",
+    "Time": "15:30",
+    "Slot": "Tue-PM",
+    "Msg": "Never share OTPs or verification codes with anyone. No legitimate organisation, IT staff member, or bank representative will ever ask for your OTP. If someone does, it is a red flag. Stop and report it."
+  },
+  {
+    "Day": "Wednesday",
+    "Time": "09:30",
+    "Slot": "Wed-AM",
+    "Msg": "Your BVN is tied to every bank account you own in Nigeria. Never share it over the phone, via WhatsApp, or in a form you did not initiate. No legitimate bank staff will ever ask for your BVN directly. If someone asks for it, stop immediately."
+  },
+  {
+    "Day": "Wednesday",
+    "Time": "12:30",
+    "Slot": "Wed-NOON",
+    "Msg": "DEEPFAKES are real and they are here. AI can now generate convincing fake videos and voice recordings of real people. If you receive an unusual audio or video message asking for urgent financial or system action, verify it directly with that person before acting."
+  },
+  {
+    "Day": "Wednesday",
+    "Time": "15:30",
+    "Slot": "Wed-PM",
+    "Msg": "Your BVN is tied to every bank account you own in Nigeria. Never share it over the phone, via WhatsApp, or in a form you did not initiate. No legitimate bank staff will ever ask for your BVN directly. If someone asks for it, stop immediately."
+  },
+  {
+    "Day": "Thursday",
+    "Time": "09:30",
+    "Slot": "Thu-AM",
+    "Msg": "Always verify payment requests offline before acting. Call the requester directly on a known number; not the one provided in the email or message. One phone call can prevent an irreversible transfer."
+  },
+  {
+    "Day": "Thursday",
+    "Time": "12:30",
+    "Slot": "Thu-NOON",
+    "Msg": "CEO fraud occurs when an attacker impersonates a senior leader and instructs a staff member to make an urgent transfer. Always verify financial instructions from leadership directly and in person, regardless of how convincing the email appears."
+  },
+  {
+    "Day": "Thursday",
+    "Time": "15:30",
+    "Slot": "Thu-PM",
+    "Msg": "Always verify payment requests offline before acting. Call the requester directly on a known number; not the one provided in the email or message. One phone call can prevent an irreversible transfer."
+  },
+  {
+    "Day": "Friday",
+    "Time": "09:30",
+    "Slot": "Fri-AM",
+    "Msg": "Hackers love Fridays. End-of-week fatigue and the weekend approaching make employees distracted and less cautious. Stay as sharp at 4pm on Friday as you are at 9am on Monday. Attackers are counting on you not to."
+  },
+  {
+    "Day": "Friday",
+    "Time": "12:30",
+    "Slot": "Fri-NOON",
+    "Msg": "USB devices from unknown sources may contain malware that executes the moment you plug them in, before you even open a file. If you find an unknown USB device, hand it to IT immediately. Do not plug it in."
+  },
+  {
+    "Day": "Friday",
+    "Time": "15:30",
+    "Slot": "Fri-PM",
+    "Msg": "Hackers love Fridays. End-of-week fatigue and the weekend approaching make employees distracted and less cautious. Stay as sharp at 4pm on Friday as you are at 9am on Monday. Attackers are counting on you not to."
+  }
 ]
