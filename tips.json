@@ -1,92 +1,36 @@
 [
-  {
-    "Day": "Monday",
-    "Time": "09:30",
-    "Slot": "Mon-AM",
-    "Msg": "Over 90% of cyberattacks start with a phishing email. Before you click, pause and verify. Check the sender, inspect links carefully, and be cautious of urgent requests. When in doubt, do not engage; contact IT immediately."
-  },
-  {
-    "Day": "Monday",
-    "Time": "12:30",
-    "Slot": "Mon-NOON",
-    "Msg": "SMISHING is phishing via SMS. You receive a text that looks like it is from your bank, NIMC, FIRS, or a courier asking you to click a link or call a number urgently. Do not click. Go directly to the organisation's official website instead. When in doubt, contact IT."
-  },
-  {
-    "Day": "Monday",
-    "Time": "15:30",
-    "Slot": "Mon-PM",
-    "Msg": "Over 90% of cyberattacks start with a phishing email. Before you click, pause and verify. Check the sender, inspect links carefully, and be cautious of urgent requests. When in doubt, do not engage; contact IT immediately."
-  },
-  {
-    "Day": "Tuesday",
-    "Time": "09:30",
-    "Slot": "Tue-AM",
-    "Msg": "Never share OTPs or verification codes with anyone. No legitimate organisation, IT staff member, or bank representative will ever ask for your OTP. If someone does, it is a red flag. Stop and report it."
-  },
-  {
-    "Day": "Tuesday",
-    "Time": "12:30",
-    "Slot": "Tue-NOON",
-    "Msg": "MFA prompts you did not initiate must always be denied. If you receive an unexpected MFA request, it means someone has your password and is trying to get in. Deny it and contact IT immediately."
-  },
-  {
-    "Day": "Tuesday",
-    "Time": "15:30",
-    "Slot": "Tue-PM",
-    "Msg": "Never share OTPs or verification codes with anyone. No legitimate organisation, IT staff member, or bank representative will ever ask for your OTP. If someone does, it is a red flag. Stop and report it."
-  },
-  {
-    "Day": "Wednesday",
-    "Time": "09:30",
-    "Slot": "Wed-AM",
-    "Msg": "Your BVN is tied to every bank account you own in Nigeria. Never share it over the phone, via WhatsApp, or in a form you did not initiate. No legitimate bank staff will ever ask for your BVN directly. If someone asks for it, stop immediately."
-  },
-  {
-    "Day": "Wednesday",
-    "Time": "12:30",
-    "Slot": "Wed-NOON",
-    "Msg": "DEEPFAKES are real and they are here. AI can now generate convincing fake videos and voice recordings of real people. If you receive an unusual audio or video message asking for urgent financial or system action, verify it directly with that person before acting."
-  },
-  {
-    "Day": "Wednesday",
-    "Time": "15:30",
-    "Slot": "Wed-PM",
-    "Msg": "Your BVN is tied to every bank account you own in Nigeria. Never share it over the phone, via WhatsApp, or in a form you did not initiate. No legitimate bank staff will ever ask for your BVN directly. If someone asks for it, stop immediately."
-  },
-  {
-    "Day": "Thursday",
-    "Time": "09:30",
-    "Slot": "Thu-AM",
-    "Msg": "Always verify payment requests offline before acting. Call the requester directly on a known number; not the one provided in the email or message. One phone call can prevent an irreversible transfer."
-  },
-  {
-    "Day": "Thursday",
-    "Time": "12:30",
-    "Slot": "Thu-NOON",
-    "Msg": "CEO fraud occurs when an attacker impersonates a senior leader and instructs a staff member to make an urgent transfer. Always verify financial instructions from leadership directly and in person, regardless of how convincing the email appears."
-  },
-  {
-    "Day": "Thursday",
-    "Time": "15:30",
-    "Slot": "Thu-PM",
-    "Msg": "Always verify payment requests offline before acting. Call the requester directly on a known number; not the one provided in the email or message. One phone call can prevent an irreversible transfer."
-  },
-  {
-    "Day": "Friday",
-    "Time": "09:30",
-    "Slot": "Fri-AM",
-    "Msg": "Hackers love Fridays. End-of-week fatigue and the weekend approaching make employees distracted and less cautious. Stay as sharp at 4pm on Friday as you are at 9am on Monday. Attackers are counting on you not to."
-  },
-  {
-    "Day": "Friday",
-    "Time": "12:30",
-    "Slot": "Fri-NOON",
-    "Msg": "USB devices from unknown sources may contain malware that executes the moment you plug them in, before you even open a file. If you find an unknown USB device, hand it to IT immediately. Do not plug it in."
-  },
-  {
-    "Day": "Friday",
-    "Time": "15:30",
-    "Slot": "Fri-PM",
-    "Msg": "Hackers love Fridays. End-of-week fatigue and the weekend approaching make employees distracted and less cautious. Stay as sharp at 4pm on Friday as you are at 9am on Monday. Attackers are counting on you not to."
-  }
+  { "Day": "Monday", "Time": "09:30", "Slot": "Mon-AM",
+    "Msg": "Weak or reused passwords are one of the easiest ways attackers get in. Use a unique password for every account, and never reuse your work password anywhere else. If you cannot remember multiple passwords, ask IT about approved password managers." },
+  { "Day": "Monday", "Time": "12:30", "Slot": "Mon-NOON",
+    "Msg": "Social engineering does not always come by email. A friendly voice on the phone claiming to be IT, a bank, or a delivery company can be just as dangerous. Verify identity before sharing any information, no matter how convincing the caller sounds." },
+  { "Day": "Monday", "Time": "15:30", "Slot": "Mon-PM",
+    "Msg": "Weak or reused passwords are one of the easiest ways attackers get in. Use a unique password for every account, and never reuse your work password anywhere else. If you cannot remember multiple passwords, ask IT about approved password managers." },
+
+  { "Day": "Tuesday", "Time": "09:30", "Slot": "Tue-AM",
+    "Msg": "Lock your screen every time you step away from your desk, even for a minute. An unlocked workstation is an open door to anyone walking past, including visitors and delivery personnel." },
+  { "Day": "Tuesday", "Time": "12:30", "Slot": "Tue-NOON",
+    "Msg": "Ransomware often enters through a single careless click. Do not open attachments or enable macros from unexpected emails, even if they appear to come from a colleague. If in doubt, confirm with the sender directly before opening." },
+  { "Day": "Tuesday", "Time": "15:30", "Slot": "Tue-PM",
+    "Msg": "Lock your screen every time you step away from your desk, even for a minute. An unlocked workstation is an open door to anyone walking past, including visitors and delivery personnel." },
+
+  { "Day": "Wednesday", "Time": "09:30", "Slot": "Wed-AM",
+    "Msg": "Not all data is equal. Client and financial information must be handled with extra care, never sent over personal email or WhatsApp, and only shared with people who genuinely need it." },
+  { "Day": "Wednesday", "Time": "12:30", "Slot": "Wed-NOON",
+    "Msg": "Working remotely does not remove your security responsibilities. Avoid using public WiFi for company work without a VPN, and never let family members use your work device." },
+  { "Day": "Wednesday", "Time": "15:30", "Slot": "Wed-PM",
+    "Msg": "Not all data is equal. Client and financial information must be handled with extra care, never sent over personal email or WhatsApp, and only shared with people who genuinely need it." },
+
+  { "Day": "Thursday", "Time": "09:30", "Slot": "Thu-AM",
+    "Msg": "Before working with any new vendor or third party, confirm they have gone through the proper approval process. Unauthorised third-party access is a common way attackers gain a foothold into an organisation." },
+  { "Day": "Thursday", "Time": "12:30", "Slot": "Thu-NOON",
+    "Msg": "If something feels wrong, even if you are not sure why, report it. A delayed report of a suspicious email or unusual system behaviour can turn a small incident into a major breach. IT would always rather investigate a false alarm than miss a real one." },
+  { "Day": "Thursday", "Time": "15:30", "Slot": "Thu-PM",
+    "Msg": "Before working with any new vendor or third party, confirm they have gone through the proper approval process. Unauthorised third-party access is a common way attackers gain a foothold into an organisation." },
+
+  { "Day": "Friday", "Time": "09:30", "Slot": "Fri-AM",
+    "Msg": "Lost or stolen mobile devices with access to company email or files are a real risk. Always use a PIN or biometric lock, and report a lost device to IT immediately so access can be revoked." },
+  { "Day": "Friday", "Time": "12:30", "Slot": "Fri-NOON",
+    "Msg": "Before you leave for the weekend, save your work, log out of shared systems, and lock your workstation. A few seconds now prevents a much bigger problem on Monday." },
+  { "Day": "Friday", "Time": "15:30", "Slot": "Fri-PM",
+    "Msg": "Lost or stolen mobile devices with access to company email or files are a real risk. Always use a PIN or biometric lock, and report a lost device to IT immediately so access can be revoked." }
 ]
