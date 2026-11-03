@@ -1,36 +1,92 @@
 [
-  { "Day": "Monday", "Time": "09:30", "Slot": "Mon-AM",
-    "Msg": "Over 90% of cyberattacks start with a phishing email. Before you click, pause and verify. Check the sender, inspect links carefully, and be cautious of urgent requests. When in doubt, do not engage; contact IT immediately." },
-  { "Day": "Monday", "Time": "12:30", "Slot": "Mon-NOON",
-    "Msg": "SMISHING is phishing via SMS. You receive a text that looks like it is from your bank, NIMC, FIRS, or a courier asking you to click a link or call a number urgently. Do not click. Do not call the number in the message. Go directly to the organisation's official website instead. When in doubt, contact IT." },
-  { "Day": "Monday", "Time": "15:30", "Slot": "Mon-PM",
-    "Msg": "Over 90% of cyberattacks start with a phishing email. Before you click, pause and verify. Check the sender, inspect links carefully, and be cautious of urgent requests. When in doubt, do not engage; contact IT immediately." },
-
-  { "Day": "Tuesday", "Time": "09:30", "Slot": "Tue-AM",
-    "Msg": "Password123 is not a secure password. A strong password is at least 15 characters, mixes uppercase, lowercase, numbers, and symbols, and means nothing to anyone but you. Better still, use a passphrase; a random string of four or more unrelated words." },
-  { "Day": "Tuesday", "Time": "12:30", "Slot": "Tue-NOON",
-    "Msg": "MFA prompts you did not initiate must always be denied. If you receive an unexpected MFA request, it means someone has your password and is trying to get in. Deny it and contact IT immediately." },
-  { "Day": "Tuesday", "Time": "15:30", "Slot": "Tue-PM",
-    "Msg": "Password123 is not a secure password. A strong password is at least 15 characters, mixes uppercase, lowercase, numbers, and symbols, and means nothing to anyone but you. Better still, use a passphrase; a random string of four or more unrelated words." },
-
-  { "Day": "Wednesday", "Time": "09:30", "Slot": "Wed-AM",
-    "Msg": "Lock your screen every time you leave your desk, even for two minutes. Press Windows + L instantly. An unlocked screen is an open door to your files, email, and systems." },
-  { "Day": "Wednesday", "Time": "12:30", "Slot": "Wed-NOON",
-    "Msg": "TAILGATING is when an unauthorised person follows closely behind you through a secured door without using their own access card. Every person must badge in independently. If someone cannot badge in, contact Administration immediately. Do not hold the door." },
-  { "Day": "Wednesday", "Time": "15:30", "Slot": "Wed-PM",
-    "Msg": "Lock your screen every time you leave your desk, even for two minutes. Press Windows + L instantly. An unlocked screen is an open door to your files, email, and systems." },
-
-  { "Day": "Thursday", "Time": "09:30", "Slot": "Thu-AM",
-    "Msg": "Public Wi-Fi networks can be monitored by attackers. Never access your work email, financial applications, or any system with sensitive information over public Wi-Fi. Use your mobile data instead." },
-  { "Day": "Thursday", "Time": "12:30", "Slot": "Thu-NOON",
-    "Msg": "JUICE JACKING. Public USB charging points in airports and hotels can be modified to steal data or install malware the moment you plug in. Use your own charger and a wall socket instead. Never plug into a USB port you do not own." },
-  { "Day": "Thursday", "Time": "15:30", "Slot": "Thu-PM",
-    "Msg": "Public Wi-Fi networks can be monitored by attackers. Never access your work email, financial applications, or any system with sensitive information over public Wi-Fi. Use your mobile data instead." },
-
-  { "Day": "Friday", "Time": "09:30", "Slot": "Fri-AM",
-    "Msg": "88% of all data breaches are caused by employee mistakes, meaning nearly nine in ten breaches originate from human behaviour rather than technical system failures. Be Alert. When in doubt, do not engage, contact IT immediately." },
-  { "Day": "Friday", "Time": "12:30", "Slot": "Fri-NOON",
-    "Msg": "One reported email can prevent a major breach. The cost of reporting a suspicious email is a few seconds of your time. The cost of not reporting it could be far greater. When in doubt, report it." },
-  { "Day": "Friday", "Time": "15:30", "Slot": "Fri-PM",
-    "Msg": "88% of all data breaches are caused by employee mistakes, meaning nearly nine in ten breaches originate from human behaviour rather than technical system failures. Be Alert. When in doubt, do not engage, contact IT immediately." }
+    {
+        "Day":  "Monday",
+        "Time":  "09:30",
+        "Slot":  "Mon-AM",
+        "Msg":  "Online quizzes, competitions, and free tools that ask for your email, phone number, or personal details are often data harvesting tools. Ask yourself whether the value being offered is worth the information being requested."
+    },
+    {
+        "Day":  "Monday",
+        "Time":  "12:30",
+        "Slot":  "Mon-NOON",
+        "Msg":  "Oversharing on social media increases your exposure to targeted attacks. Your job title, workplace, travel schedule, and daily routine are valuable information to social engineers. Be thoughtful about what your public profiles reveal."
+    },
+    {
+        "Day":  "Monday",
+        "Time":  "15:30",
+        "Slot":  "Mon-PM",
+        "Msg":  "Online quizzes, competitions, and free tools that ask for your email, phone number, or personal details are often data harvesting tools. Ask yourself whether the value being offered is worth the information being requested."
+    },
+    {
+        "Day":  "Tuesday",
+        "Time":  "09:30",
+        "Slot":  "Tue-AM",
+        "Msg":  "Scammers don\u0027t only target bank accounts. They also target identities. Protect your BVN, NIN, and personal information."
+    },
+    {
+        "Day":  "Tuesday",
+        "Time":  "12:30",
+        "Slot":  "Tue-NOON",
+        "Msg":  "That fun quiz asking your childhood nickname, first school, or mother\u0027s maiden name is not just entertainment. These are classic password recovery answers and fraudsters design these quizzes deliberately. Think before you participate. Never use your work email to complete them."
+    },
+    {
+        "Day":  "Tuesday",
+        "Time":  "15:30",
+        "Slot":  "Tue-PM",
+        "Msg":  "Scammers don\u0027t only target bank accounts. They also target identities. Protect your BVN, NIN, and personal information."
+    },
+    {
+        "Day":  "Wednesday",
+        "Time":  "09:30",
+        "Slot":  "Wed-AM",
+        "Msg":  "The most dangerous button on the internet is sometimes \u0027Accept\u0027. Pause before you click. Not sure, contact IT Immediately."
+    },
+    {
+        "Day":  "Wednesday",
+        "Time":  "12:30",
+        "Slot":  "Wed-NOON",
+        "Msg":  "Treat personal data like cash; do not share it casually, do not leave it lying around, and always ask why someone needs it before handing it over."
+    },
+    {
+        "Day":  "Wednesday",
+        "Time":  "15:30",
+        "Slot":  "Wed-PM",
+        "Msg":  "The most dangerous button on the internet is sometimes \u0027Accept\u0027. Pause before you click. Not sure, contact IT Immediately."
+    },
+    {
+        "Day":  "Thursday",
+        "Time":  "09:30",
+        "Slot":  "Thu-AM",
+        "Msg":  "Your BVN is tied to every bank account you own in Nigeria. Never share it over the phone, via WhatsApp, in a form you did not initiate, or with anyone who is not your verified bank. No legitimate bank staff will ever ask for your BVN directly. If someone asks for it, stop immediately."
+    },
+    {
+        "Day":  "Thursday",
+        "Time":  "12:30",
+        "Slot":  "Thu-NOON",
+        "Msg":  "Your digital identity is as valuable as your financial identity. Treat every piece of personal information with the same care you give your bank card or PIN."
+    },
+    {
+        "Day":  "Thursday",
+        "Time":  "15:30",
+        "Slot":  "Thu-PM",
+        "Msg":  "Your BVN is tied to every bank account you own in Nigeria. Never share it over the phone, via WhatsApp, in a form you did not initiate, or with anyone who is not your verified bank. No legitimate bank staff will ever ask for your BVN directly. If someone asks for it, stop immediately."
+    },
+    {
+        "Day":  "Friday",
+        "Time":  "09:30",
+        "Slot":  "Fri-AM",
+        "Msg":  "Avoid saving passwords in browser autofill on shared devices. What you save for convenience can be accessed by the next person who uses that device."
+    },
+    {
+        "Day":  "Friday",
+        "Time":  "12:30",
+        "Slot":  "Fri-NOON",
+        "Msg":  "Biometrics are helpful but not a complete replacement for good password hygiene. Fingerprints and face recognition can be bypassed. Always have a strong PIN or password as backup."
+    },
+    {
+        "Day":  "Friday",
+        "Time":  "15:30",
+        "Slot":  "Fri-PM",
+        "Msg":  "Avoid saving passwords in browser autofill on shared devices. What you save for convenience can be accessed by the next person who uses that device."
+    }
 ]
