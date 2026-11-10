@@ -3,90 +3,90 @@
         "Day":  "Monday",
         "Time":  "09:30",
         "Slot":  "Mon-AM",
-        "Msg":  "Online quizzes, competitions, and free tools that ask for your email, phone number, or personal details are often data harvesting tools. Ask yourself whether the value being offered is worth the information being requested."
+        "Msg":  "Platforms like ChatGPT, Gemini, and others may use the information you type to train their models. Client names, financial figures, internal reports, and policy documents must never be entered into these platforms."
     },
     {
         "Day":  "Monday",
         "Time":  "12:30",
         "Slot":  "Mon-NOON",
-        "Msg":  "Oversharing on social media increases your exposure to targeted attacks. Your job title, workplace, travel schedule, and daily routine are valuable information to social engineers. Be thoughtful about what your public profiles reveal."
+        "Msg":  "Stop and check before registering. Platforms like Firefly.ai and other AI-powered tools may require you to create an account or grant permissions. Do not register for any new AI platform or third-party tool using your work credentials without IT clearance first."
     },
     {
         "Day":  "Monday",
         "Time":  "15:30",
         "Slot":  "Mon-PM",
-        "Msg":  "Online quizzes, competitions, and free tools that ask for your email, phone number, or personal details are often data harvesting tools. Ask yourself whether the value being offered is worth the information being requested."
+        "Msg":  "Platforms like ChatGPT, Gemini, and others may use the information you type to train their models. Client names, financial figures, internal reports, and policy documents must never be entered into these platforms."
     },
     {
         "Day":  "Tuesday",
         "Time":  "09:30",
         "Slot":  "Tue-AM",
-        "Msg":  "Scammers don\u0027t only target bank accounts. They also target identities. Protect your BVN, NIN, and personal information."
+        "Msg":  "A WhatsApp message with an outlier content claiming to be from your boss is not proof it is your boss. Verify Offline."
     },
     {
         "Day":  "Tuesday",
         "Time":  "12:30",
         "Slot":  "Tue-NOON",
-        "Msg":  "That fun quiz asking your childhood nickname, first school, or mother\u0027s maiden name is not just entertainment. These are classic password recovery answers and fraudsters design these quizzes deliberately. Think before you participate. Never use your work email to complete them."
+        "Msg":  "Cloud storage links should never be publicly shared unless intentional and necessary. A shared link to a folder containing sensitive documents can be accessed by anyone who has it. Always restrict access permissions."
     },
     {
         "Day":  "Tuesday",
         "Time":  "15:30",
         "Slot":  "Tue-PM",
-        "Msg":  "Scammers don\u0027t only target bank accounts. They also target identities. Protect your BVN, NIN, and personal information."
+        "Msg":  "A WhatsApp message with an outlier content claiming to be from your boss is not proof it is your boss. Verify Offline."
     },
     {
         "Day":  "Wednesday",
         "Time":  "09:30",
         "Slot":  "Wed-AM",
-        "Msg":  "The most dangerous button on the internet is sometimes \u0027Accept\u0027. Pause before you click. Not sure, contact IT Immediately."
+        "Msg":  "Curiosity clicked the link. Caution saved the company. Stay Vigilant. Verify. Do not be curious about strange links."
     },
     {
         "Day":  "Wednesday",
         "Time":  "12:30",
         "Slot":  "Wed-NOON",
-        "Msg":  "Treat personal data like cash; do not share it casually, do not leave it lying around, and always ask why someone needs it before handing it over."
+        "Msg":  "DEEPFAKES are real and they are here. AI can now generate convincing fake videos and voice recordings of real people. If you receive an unusual audio or video message asking for urgent financial or system action, verify it directly with that person before acting."
     },
     {
         "Day":  "Wednesday",
         "Time":  "15:30",
         "Slot":  "Wed-PM",
-        "Msg":  "The most dangerous button on the internet is sometimes \u0027Accept\u0027. Pause before you click. Not sure, contact IT Immediately."
+        "Msg":  "Curiosity clicked the link. Caution saved the company. Stay Vigilant. Verify. Do not be curious about strange links."
     },
     {
         "Day":  "Thursday",
         "Time":  "09:30",
         "Slot":  "Thu-AM",
-        "Msg":  "Your BVN is tied to every bank account you own in Nigeria. Never share it over the phone, via WhatsApp, in a form you did not initiate, or with anyone who is not your verified bank. No legitimate bank staff will ever ask for your BVN directly. If someone asks for it, stop immediately."
+        "Msg":  "Identity theft can take years to fully recover from. A stolen identity can be used to take out loans, register businesses, or commit fraud in your name. Protect your details as if your financial future depends on it, because it does."
     },
     {
         "Day":  "Thursday",
         "Time":  "12:30",
         "Slot":  "Thu-NOON",
-        "Msg":  "Your digital identity is as valuable as your financial identity. Treat every piece of personal information with the same care you give your bank card or PIN."
+        "Msg":  "Location posts can reveal when your home or office is empty. That holiday photo posted in real time tells everyone you are not there. Consider posting after you return."
     },
     {
         "Day":  "Thursday",
         "Time":  "15:30",
         "Slot":  "Thu-PM",
-        "Msg":  "Your BVN is tied to every bank account you own in Nigeria. Never share it over the phone, via WhatsApp, in a form you did not initiate, or with anyone who is not your verified bank. No legitimate bank staff will ever ask for your BVN directly. If someone asks for it, stop immediately."
+        "Msg":  "Identity theft can take years to fully recover from. A stolen identity can be used to take out loans, register businesses, or commit fraud in your name. Protect your details as if your financial future depends on it, because it does."
     },
     {
         "Day":  "Friday",
         "Time":  "09:30",
         "Slot":  "Fri-AM",
-        "Msg":  "Avoid saving passwords in browser autofill on shared devices. What you save for convenience can be accessed by the next person who uses that device."
+        "Msg":  "Mobile apps may request access to your contacts, location, camera, and files far beyond what they actually need. Review app permissions regularly and revoke anything that seems unnecessary."
     },
     {
         "Day":  "Friday",
         "Time":  "12:30",
         "Slot":  "Fri-NOON",
-        "Msg":  "Biometrics are helpful but not a complete replacement for good password hygiene. Fingerprints and face recognition can be bypassed. Always have a strong PIN or password as backup."
+        "Msg":  "Never upload identity documents such as your NIN slip, passport, or driver\u0027s licence to unverified platforms. Once uploaded, you cannot control where that data goes."
     },
     {
         "Day":  "Friday",
         "Time":  "15:30",
         "Slot":  "Fri-PM",
-        "Msg":  "Avoid saving passwords in browser autofill on shared devices. What you save for convenience can be accessed by the next person who uses that device."
+        "Msg":  "Mobile apps may request access to your contacts, location, camera, and files far beyond what they actually need. Review app permissions regularly and revoke anything that seems unnecessary."
     }
 ]
